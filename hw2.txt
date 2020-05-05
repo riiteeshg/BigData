@@ -1,0 +1,9 @@
+[u'word Word wOrD wORd', u'is is is ', u'the the the ', u'test test', u'of of ', u'this this this this ', u'file file file ']
+-------word count -------------
+7
+-------word count -------------
+26
+Traceback (most recent call last):
+  File "/Users/riteshgautam/BigData/Code/hw2.py", line 25, in <module>
+    total_count = sum(countC.collectAsMap().values())
+AttributeError: 'int' object has no attribute 'collectAsMap'
