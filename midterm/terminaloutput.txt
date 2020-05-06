@@ -1,0 +1,21 @@
+2020-05-07 00:30:36 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+char frequencies are  [('R', 6366), ('G', 4451), ('B', 4400), ('N', 4143), ('A', 3859), ('V', 3569), ('F', 3548), ('E', 3454), ('C', 2135), ('Y', 2092), ('U', 2061), ('P', 1916), ('Q', 1762), ('H', 1621), ('Z', 1522), ('T', 1096), ('S', 1077), ('O', 912), ('L', 909), ('J', 652), ('I', 563), ('X', 422), ('K', 288), ('W', 73), ('D', 58), ('M', 56)]
+The word count for this document is : 11197
+The most common word frequency for this file is : ('GUR', 535)
+The shift of the Cypher for the file is : 13
+In this file, common English character 'E', is represented by : R
+
+char frequencies are  [('X', 12851), ('M', 9131), ('T', 8130), ('H', 7253), ('B', 6999), ('G', 6943), ('L', 6436), ('K', 6278), ('A', 5646), ('W', 4322), ('E', 3503), ('V', 2711), ('N', 2676), ('Y', 2537), ('F', 2351), ('P', 2225), ('Z', 1973), ('I', 1889), ('R', 1699), ('U', 1477), ('O', 1002), ('D', 515), ('Q', 168), ('J', 121), ('C', 108), ('S', 68)]
+The word count for this document is : 21353
+The most common word frequency for this file is : ('MAX', 1624)
+The shift of the Cypher for the file is : 19
+In this file, common English character 'E', is represented by : X
+
+char frequencies are  [('J', 1817), ('F', 1732), ('Y', 1726), ('X', 1628), ('T', 1482), ('N', 1366), ('S', 1358), ('W', 989), ('M', 863), ('Q', 818), ('I', 793), ('D', 703), ('L', 612), ('H', 604), ('Z', 504), ('G', 446), ('R', 406), ('B', 340), ('P', 324), ('K', 296), ('U', 283), ('A', 201), ('O', 58), ('C', 39), ('E', 21), ('V', 7), ('t', 5), ('s', 4), ('e', 3), ('r', 3), ('a', 3), ('o', 2), ('n', 2), ('d', 2), ('i', 1), ('h', 1), ('g', 1), ('u', 1), ('m', 1), ('w', 1), ('l', 1), ('c', 1), ('y', 1), ('p', 1), ('x', 1)]
+The word count for this document is : 4428
+The most common word frequency for this file is : ('YMJ', 166)
+The shift of the Cypher for the file is : 5
+In this file, common English character 'E', is represented by : J
+
